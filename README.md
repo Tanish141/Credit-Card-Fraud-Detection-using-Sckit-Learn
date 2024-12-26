@@ -51,6 +51,7 @@ This project implements a Credit Card Fraud Detection system using a **Random Fo
 - Load Dataset:
 - Reads the credit card transactions dataset.
 - Displays dataset structure, summary, and samples.
+- Dataset link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 - Preprocessing:
 - Splits data into features (X) and target (y).
